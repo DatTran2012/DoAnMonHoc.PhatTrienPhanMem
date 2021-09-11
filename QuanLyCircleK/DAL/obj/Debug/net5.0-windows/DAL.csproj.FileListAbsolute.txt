@@ -1,0 +1,24 @@
+D:\DA_PTPM\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+D:\DA_PTPM\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\ref\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.pdb
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.pdb
+D:\DA_PTPM\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\ref\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\DAL\obj\Debug\net5.0-windows\DAL.pdb

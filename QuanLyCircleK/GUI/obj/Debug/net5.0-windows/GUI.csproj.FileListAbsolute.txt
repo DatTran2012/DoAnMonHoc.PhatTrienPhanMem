@@ -1,0 +1,118 @@
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmMain.resources
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\Admin\source\repos\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.exe
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.pdb
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmMain.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.pdb
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.Properties.Resources.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHome.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmCaNhan.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmBaoCao.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHoaDon.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHoTro.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmKhachHang.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmLoai.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmNhaCungCap.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmQuanLy.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmSanPham.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmThanhToan.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csprojAssemblyReference.cache
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\BLL.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\BLL.pdb
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\DAL.pdb
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmDangNhap.resources
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.dll.config
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.MachineLearning.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Math.Core.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Math.dll
+D:\DA_PTPM\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Statistics.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.dll.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.MachineLearning.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Math.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Math.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\Accord.Statistics.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\BLL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmBaoCao.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmCaNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHoaDon.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHome.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmHoTro.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmKhachHang.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmLoai.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmMain.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmNhaCungCap.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmQuanLy.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmSanPham.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.FrmThanhToan.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache

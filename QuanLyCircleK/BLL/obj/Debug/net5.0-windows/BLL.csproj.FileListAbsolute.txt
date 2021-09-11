@@ -1,0 +1,30 @@
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csprojAssemblyReference.cache
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfoInputs.cache
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfo.cs
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csproj.CoreCompileInputs.cache
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.deps.json
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.dll
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\ref\BLL.dll
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.pdb
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\DAL.dll
+D:\DA_PTPM\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\DAL.pdb
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csproj.CopyComplete
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.dll
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\ref\BLL.dll
+D:\DA_PTPM\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.deps.json
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\ref\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\BLL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\ref\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCircleK (1)\QuanLyCircleK\BLL\obj\Debug\net5.0-windows\BLL.pdb

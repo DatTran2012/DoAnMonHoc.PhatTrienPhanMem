@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHoTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundAVT.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundPCB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
